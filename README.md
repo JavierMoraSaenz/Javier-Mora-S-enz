@@ -1,7 +1,7 @@
 
 <h1 align="center">
-   <span style="color:#f49ac2;">Javier Mora</span>
-</h1>
+<h1 align="center">Hi , I'm Javier Mora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"></h1>
 
 </p>
 
