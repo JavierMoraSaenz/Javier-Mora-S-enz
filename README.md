@@ -13,8 +13,7 @@
 ---
 
 
-<h2> Que tal soy Javier! 👋🏼 </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 📚  Ingeniero Mecatrónico con formación en tecnologías emergentes y pasión por el análisis de datos, 
@@ -48,21 +47,17 @@ procesos y Machine Learning.
 ## ⚙️ Habilidades Técnicas
 
 ### Lenguajes de Programación
+</code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<br/><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><br/>
 
-| Tecnología | Aplicación Principal |
-|------------|---------------------|
-| Python     | Data Science, ML, Automatización |
-| SQL        | Análisis de datos, ETL, Consultas complejas |
 
 ### Data Science & Analytics Stack
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
 
-| Herramienta   | Uso Específico |
-|---------------|----------------|
-| Pandas        | Manipulación y análisis de datos |
-| NumPy         | Cálculos numéricos y arrays |
-| Scikit-learn  | Machine Learning |
-| Matplotlib    | Visualización estática |
-| Seaborn       | Visualización estadística |
 
 ### Machine Learning Especializado
 
@@ -160,6 +155,7 @@ procesos y Machine Learning.
 </p>
 
 ---
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 
 ## 🤝 ¡Conectemos!
