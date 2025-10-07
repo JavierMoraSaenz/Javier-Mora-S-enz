@@ -1,27 +1,19 @@
 
 <h1 align="center">
-  👩🏻‍💻 <span style="color:#f49ac2;">Karina Serrano</span> 🌸
+   <span style="color:#f49ac2;">Javier Mora</span>
 </h1>
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/KarinaSerrM">
-    <img src="https://img.shields.io/github/followers/KarinaSerrM?label=GitHub&style=social" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/karina-serrano-data-science">
-    <img src="https://img.shields.io/badge/LinkedIn-Karina%20Serrano-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Data%20Science-Con%20propósito%20y%20pasión-f49ac2?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-Precisión%20y%20Control-00bfff?style=flat-square&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Power%20BI-Visualización%20Estratégica-ffbf00?style=flat-square&logo=powerbi" />
+
 </p>
 
 
 ---
 
 
-<h2> 👩🏻‍💼Hola soy Karina! </h2>
+<h2> Que tal soy Jvier! 👋🏼 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
