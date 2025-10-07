@@ -13,12 +13,14 @@
 ---
 
 
-<h2> Que tal soy Jvier! 👋🏼 </h2>
+<h2> Que tal soy Javier! 👋🏼 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-✨  Una profesional apasionada por la conexión entre los datos y las decisiones estratégicas.
-Me defino como alguien que combina lógica, estructura y creatividad para mejorar procesos logísticos y operativos mediante la analítica. Trabajo con propósito, comunicación efectiva y mucha sensibilidad visual.
+📚  Ingeniero Mecatrónico con formación en tecnologías emergentes y pasión por el análisis de datos, 
+programación y desarrollo de soluciones innovadoras. Busco aplicar mis habilidades técnicas y 
+analíticas en proyectos dentro del sector de TI, enfocados en la optimización, automatización de 
+procesos y Machine Learning. 
 
 ---
 
@@ -28,7 +30,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 - **Análisis Exploratorio de Datos (EDA)** - Identificación de patrones y insights
 - **Machine Learning Supervisado** - Clasificación y regresión 
 - **Machine Learning No Supervisado** - Clustering y segmentación
-- **Series Temporales** - Análisis predictivo y modelado ARIMA
 - **Market Basket Analysis** - Algoritmo Apriori para patrones de consumo
 
 ### Business Intelligence & Visualización
@@ -41,7 +42,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 - **Automatización de Procesos** - Python y SQL para eficiencia operativa
 - **Limpieza y Transformación** - ETL y calidad de datos
 
-📌 _Mi estilo: estructura + emoción + propósito._
 
 ---
 
@@ -74,8 +74,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 | K-Means Clustering      | Segmentación RFM de clientes |
 | PCA                     | Reducción de dimensionalidad |
 | SVD                     | Análisis de componentes principales |
-| ARIMA                   | Pronósticos de series temporales |
-| AR(p)                   | Modelado financiero |
 | Análisis de Sentimientos | Análisis de aplicaciones Android |
 | Algoritmo Apriori       | Market basket analysis |
 
@@ -84,10 +82,8 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 | Plataforma            | Capacidades |
 |-----------------------|-------------|
 | Power BI              | Dashboards interactivos, modelado de datos, DAX |
-| Tableau               | Dashboards interactivos, modelado de datos, DAX |
 | Power Query           | ETL y transformación de datos |
-| Plotly, Plotly Express| Gráficos y Vizualizaciones |
-| Dash framework        |  Dashboards interactivos, modelado de datos, Python |
+| Plotly | Gráficos y Vizualizaciones |
 
 
 ## Bases de Datos & Herramientas
@@ -103,7 +99,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 | Herramienta | Propósito |
 |-------------|-----------|
 | Jupyter     | Desarrollo y documentación de análisis |
-| Git         | Control de versiones |
 | GitHub      | Portfolio y colaboración |
 
 ---
@@ -121,7 +116,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 - Descomposición estacional 
 - Pruebas de estacionariedad
 - Autocorrelación (ACF/PACF)
-- Modelado ARIMA y AR(p)
 - Medias móviles y suavizamiento
 
 ### Business Applications
@@ -139,20 +133,19 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 - **Retail & E-commerce** - Segmentación y patrones de compra  
 - **Salud** - Análisis de riesgo cardiovascular
 - **Tech** - Análisis de aplicaciones móviles
-- **Finanzas** - Modelado de precios de acciones
-- **Entretenimiento** - Análisis de alquiler de películas
+- **Finanzas** - Modelado de precios de acciones, detección de fraudes
+- **Entretenimiento** - Análisis de alquiler de películas, analisis de sentimientos
 - **Gobierno/Seguridad** - Análisis de tasas de criminalidad
 
 ---
 
-## 🌱 ¿Qué me motiva?
+## ⚜️ ¿Qué me motiva?
 
 📊 Transformar la complejidad de los datos en claridad.  
 📦 Diseñar soluciones que optimizan inventarios y logística.  
 🤝 Compartir conocimiento con perspectiva humana.  
-✨ Crear dashboards que cuentan historias reales.
+🗂️ Crear dashboards que cuentan historias reales.
 
-> “Los datos son poder, pero compartirlos con propósito es lo que transforma.”
 
 ---
 
@@ -172,6 +165,6 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 ## 🤝 ¡Conectemos!
 
 <p align="center">
-📬 <strong>Correo:</strong> karina.ingind@gmail.com<br/>
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karina-serrano-data-science">Karina Serrano - Data Science</a>
+📬 <strong>Correo:</strong> javiermoras1501@gmail.com<br/>
+🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/javier-sáenz-datascientist">Javier Mora - Data Science</a>
 </p>
