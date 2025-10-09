@@ -142,7 +142,7 @@ procesos y Machine Learning.
 🗂️ Contar las historias que nos dan los datos. 
 
 
----
+
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 
@@ -152,3 +152,4 @@ procesos y Machine Learning.
 📬 <strong>Correo:</strong> javiermoras1501@gmail.com<br/>
 🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/javier-sáenz-datascientist">Javier Mora - Data Science</a>
 </p>
+
