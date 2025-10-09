@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<h1 align="center">Hi , I'm Javier Mora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Javier+Mora!;" />
 <p align="center"></h1>
 
 </p>
