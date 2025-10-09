@@ -136,23 +136,11 @@ procesos y Machine Learning.
 
 ## ⚜️ ¿Qué me motiva?
 
-📊 Transformar la complejidad de los datos en claridad.  
-📦 Diseñar soluciones que optimizan inventarios y logística.  
-🤝 Compartir conocimiento con perspectiva humana.  
-🗂️ Crear dashboards que cuentan historias reales.
+📊 Transformar la complejidad de los datos en claridad y oportunidades.  
+📦 Diseñar soluciones que optimizan inventarios, logística o eficientar procesos.  
+🤝 Compartir y adquirir conocimiento con perspectiva humana y enfoque tecnológico.  
+🗂️ Contar las historias que nos dan los datos. 
 
-
----
-
-## 📈 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarinaSerrM&theme=dark&show_icons=true&count_private=true&hide_border=false&title_color=f49ac2&icon_color=00bfff&text_color=ecf0f1&bg_color=2c3e50" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaSerrM&theme=dark&hide_border=false&stroke=f49ac2&background=2c3e50&currstreak_color=00bfff&ring=00bfff&side_main=ecf0f1&side_border=ecf0f1&dates=ecf0f1" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaSerrM&theme=dark&layout=compact&title_color=f49ac2&icon_color=00bfff&text_color=ecf0f1&bg_color=2c3e50" />
-</p>
 
 ---
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
