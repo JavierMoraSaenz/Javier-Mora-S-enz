@@ -149,7 +149,7 @@ procesos y Machine Learning.
 ## 🤝 ¡Conectemos!
 
 <p align="center">
-📬 <strong>Correo:</strong> javiermoras1501@gmail.com<br/>
+📬 <strong>Correo:</strong> javierms15@outlook.com<br/>
 🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/javier-sáenz-datascientist">Javier Mora - Data Science</a>
 </p>
 
